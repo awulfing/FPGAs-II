@@ -1,0 +1,179 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/367
+Emy_component2
+Z0 w1611771934
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Users/Adam/Documents/468/HW4
+Z6 8C:\Users\Adam\Documents\468\HW4\my_component2.vhd
+Z7 FC:\Users\Adam\Documents\468\HW4\my_component2.vhd
+l0
+L5
+Vh98l=W7BgXF[VFRLHGgMc1
+!s100 2UH9VP[O=]3Y_G^[L=ZlW0
+Z8 OV;C;10.5b;63
+32
+Z9 !s110 1611787079
+!i10b 1
+Z10 !s108 1611787079.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\Adam\Documents\468\HW4\my_component2.vhd|
+Z12 !s107 C:\Users\Adam\Documents\468\HW4\my_component2.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Amy_architecture
+R1
+R2
+R3
+R4
+DEx4 work 13 my_component2 0 22 h98l=W7BgXF[VFRLHGgMc1
+l46
+L22
+VI2XBa[4L72>Z;YQ2CN4z_0
+!s100 PLOM;6]4>MF@DYc`oloGz2
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Emy_component2_tb
+Z15 w1611787075
+Z16 DPx4 work 8 txt_util 0 22 0mm@kGeNcX?4`g7cGTlfX0
+Z17 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+Z18 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R3
+R4
+R5
+Z19 8C:\Users\Adam\Documents\468\HW4\my_component2_tb.vhd
+Z20 FC:\Users\Adam\Documents\468\HW4\my_component2_tb.vhd
+l0
+L19
+V644P6mNWZRTh9W`Y?80Oh0
+!s100 GE[D`_Q8T1ZBfjK5`RD[D2
+R8
+32
+R9
+!i10b 1
+R10
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\Adam\Documents\468\HW4\my_component2_tb.vhd|
+Z22 !s107 C:\Users\Adam\Documents\468\HW4\my_component2_tb.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R16
+R17
+R18
+R3
+R4
+Z23 DEx4 work 16 my_component2_tb 0 22 644P6mNWZRTh9W`Y?80Oh0
+l67
+L28
+VC<QCNaoOAD?hB_Xo4;hT60
+!s100 OaNN9fzaWgFU^79YR;C[42
+R8
+32
+R9
+!i10b 1
+R10
+R21
+R22
+!i113 1
+R13
+R14
+Erom
+Z24 w1611714015
+Z25 DPx9 altera_mf 20 altera_mf_components 0 22 gV:l9C^?PSb6]b5V?_jR@3
+R3
+R4
+R5
+Z26 8C:/Users/Adam/Documents/468/HW4/ROM.vhd
+Z27 FC:/Users/Adam/Documents/468/HW4/ROM.vhd
+l0
+L42
+V=Wg`FY^N>l]>?BaJ:?d8P2
+!s100 C[WnX95kgKMjAGbHj:>_>3
+R8
+32
+R9
+!i10b 1
+R10
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Adam/Documents/468/HW4/ROM.vhd|
+Z29 !s107 C:/Users/Adam/Documents/468/HW4/ROM.vhd|
+!i113 1
+R13
+R14
+Asyn
+R25
+R3
+R4
+DEx4 work 3 rom 0 22 =Wg`FY^N>l]>?BaJ:?d8P2
+l56
+L52
+VoOzW582eB`:5z0W];<Sg^2
+!s100 mN7BlC]O68IVg^@F2edS82
+R8
+32
+R9
+!i10b 1
+R10
+R28
+R29
+!i113 1
+R13
+R14
+Ptxt_util
+R3
+R4
+Z30 w1611713181
+R5
+Z31 8C:/Users/Adam/Documents/468/HW4/text_util.vhd
+Z32 FC:/Users/Adam/Documents/468/HW4/text_util.vhd
+l0
+L6
+V0mm@kGeNcX?4`g7cGTlfX0
+!s100 c:BW5Xc[E8^[m08^2C2lQ1
+R8
+32
+b1
+R9
+!i10b 1
+R10
+Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Adam/Documents/468/HW4/text_util.vhd|
+Z34 !s107 C:/Users/Adam/Documents/468/HW4/text_util.vhd|
+!i113 1
+R13
+R14
+Bbody
+R16
+R3
+R4
+l0
+L91
+V`HH;T`3Ho[Hlb][VkY^;C2
+!s100 I`ADAF?H00AhH2Y9>MT2A0
+R8
+32
+R9
+!i10b 1
+R10
+R33
+R34
+!i113 1
+R13
+R14

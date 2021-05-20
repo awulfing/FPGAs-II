@@ -1,0 +1,23 @@
+function y = my_fxpt_function(x)
+% Input x is assumed to be a fixted-point object
+% The function computes the same result as my_component.vhd
+
+W = x.WordLength;
+F = x.FractionLength;
+
+% set fimath property to perform computations similar to VHDL code
+Fm = fimath('RoundingMethod' ,'Floor',...
+    'OverflowAction'         ,'Wrap',...
+    'ProductMode'            ,'SpecifyPrecision',...
+    'ProductWordLength'      ,W,...
+    'ProductFractionLength'  ,F,...
+    'SumMode'                ,'SpecifyPrecision',...
+    'SumWordLength'          ,W,...
+    'SumFractionLength'      ,F);
+
+x.fimath = Fm;  % set the fimath properties for x
+
+y = x + 1; % perform the computation
+
+end
+

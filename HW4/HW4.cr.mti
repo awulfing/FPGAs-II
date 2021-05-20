@@ -1,0 +1,40 @@
+C:/Users/Adam/Documents/468/HW4/text_util.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Adam/Documents/468/HW4/text_util.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling package txt_util
+-- Compiling package body txt_util
+-- Loading package txt_util
+
+} {} {}} C:/Users/Adam/Documents/468/HW4/ROM.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Adam/Documents/468/HW4/ROM.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package altera_mf_components
+-- Compiling entity ROM
+-- Compiling architecture SYN of rom
+
+} {} {}} C:/Users/Adam/Documents/468/HW4/my_component2.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\Adam\Documents\468\HW4\my_component2.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity my_component2
+-- Compiling architecture my_architecture of my_component2
+
+} {} {}} C:/Users/Adam/Documents/468/HW4/my_component2_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\Adam\Documents\468\HW4\my_component2_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_textio
+-- Loading package txt_util
+-- Compiling entity my_component2_tb
+-- Compiling architecture behavioral of my_component2_tb
+
+} {} {}}
