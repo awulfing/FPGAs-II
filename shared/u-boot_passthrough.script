@@ -1,0 +1,28 @@
+# file directories
+setenv tftp-kernel-dir de10nano/kernel
+setenv tftp-project-dir de10nano/project_passthrough
+setenv nfs-rootfs-dir /srv/nfs/de10nano/ubuntu-rootfs
+
+# kernel bootargs
+setenv bootargs console=ttyS0,115200 ip=${ipaddr} root=/dev/nfs rw nfsroot=${nfsip}:${nfs-rootfs-dir},vers=4,tcp nfsrootdebug earlyprintk=serial
+
+# file names
+setenv fpga-image soc_system.rbf
+setenv dtb-image soc_system.dtb
+setenv kernel-image zImage
+
+# memory addresses where files get loaded into
+setenv fpgadata 0x2000000
+setenv fpgadatasize 0x700000
+setenv dtbaddr 0x00000100
+setenv kerneladdr 0x8000
+
+# commands to get files, configure the fpga, and load the kernel
+setenv get-fpgadata 'tftp ${fpgadata} ${tftp-project-dir}/${fpga-image}'
+setenv get-dtb 'tftp ${dtbaddr} ${tftp-project-dir}/${dtb-image}'
+setenv get-kernel 'tftp ${kerneladdr} ${tftp-kernel-dir}/${kernel-image}'
+setenv load-fpga 'fpga load 0 ${fpgadata} ${fpgadatasize}'
+setenv bootnfs 'bootz ${kerneladdr} - ${dtbaddr}'
+
+# get all of the files and boot the device
+run get-fpgadata load-fpga get-dtb get-kernel bridge_enable_handoff bootnfs
