@@ -1,0 +1,363 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/367
+Ecustom
+Z0 w1612838883
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/Adam/Documents/468/Lab1
+Z5 8C:/Users/Adam/Documents/468/Lab1/custom.vhd
+Z6 FC:/Users/Adam/Documents/468/Lab1/custom.vhd
+l0
+L5
+V2M[I@COCend>CoQG9:o8b2
+!s100 LPYYHff[DIRn:N7kl7LD11
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1613526616
+!i10b 1
+Z9 !s108 1613526616.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Adam/Documents/468/Lab1/custom.vhd|
+Z11 !s107 C:/Users/Adam/Documents/468/Lab1/custom.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Acustom_arch
+R1
+R2
+R3
+DEx4 work 6 custom 0 22 2M[I@COCend>CoQG9:o8b2
+l43
+L13
+V9]MMzK4;D5kclH9C3[o:D3
+!s100 5X6LbXUm`eMPmN<:JAT3U2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Efxb_rsqrt_tb
+Z14 w1613527905
+Z15 DPx4 work 8 txt_util 0 22 0mm@kGeNcX?4`g7cGTlfX0
+Z16 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+R1
+R2
+R3
+R4
+Z17 8C:/Users/Adam/Documents/468/Lab1/fxb_rsqrt_tb.vhd
+Z18 FC:/Users/Adam/Documents/468/Lab1/fxb_rsqrt_tb.vhd
+l0
+L13
+V<cgml;CIGCg`M6VY3AM9k0
+!s100 N9_<e>FSd@@KhL2g[4ibf1
+R7
+32
+Z19 !s110 1613527909
+!i10b 1
+Z20 !s108 1613527909.000000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Adam/Documents/468/Lab1/fxb_rsqrt_tb.vhd|
+Z22 !s107 C:/Users/Adam/Documents/468/Lab1/fxb_rsqrt_tb.vhd|
+!i113 1
+R12
+R13
+Afxb_rsqrt_tb_arch
+R15
+R16
+R1
+R2
+R3
+Z23 DEx4 work 12 fxb_rsqrt_tb 0 22 <cgml;CIGCg`M6VY3AM9k0
+l53
+L23
+VNElJC:;c84kP>M:m<GiVJ2
+!s100 T>]a<_?gb64i:ag9GYA543
+R7
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R12
+R13
+Efxp_rsqrt
+Z24 w1613434893
+R1
+R2
+R3
+R4
+Z25 8C:/Users/Adam/Documents/468/Lab1/fxp_rsqrt.vhd
+Z26 FC:/Users/Adam/Documents/468/Lab1/fxp_rsqrt.vhd
+l0
+L4
+VkVN@<eNK]EH64V>bzd9nk1
+!s100 GB^B=l3Z]a>RU28H0ilUa2
+R7
+32
+R8
+!i10b 1
+R9
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Adam/Documents/468/Lab1/fxp_rsqrt.vhd|
+Z28 !s107 C:/Users/Adam/Documents/468/Lab1/fxp_rsqrt.vhd|
+!i113 1
+R12
+R13
+Afxp_rsqrtarch
+R1
+R2
+R3
+Z29 DEx4 work 9 fxp_rsqrt 0 22 kVN@<eNK]EH64V>bzd9nk1
+l36
+L14
+V;IAG0lHMF^;Od;Mca1VS10
+!s100 gPS@mA]X]dXFNM]>__h]b1
+R7
+32
+R8
+!i10b 1
+R9
+R27
+R28
+!i113 1
+R12
+R13
+Afxp_rsqrt_arch
+R1
+R2
+R3
+R29
+l30
+L14
+VlGHQJ2;B5_HnT<GoEL1X21
+!s100 YGJfVJ_[_AlYX]CmYAWo]0
+R7
+32
+!s110 1613356799
+!i10b 1
+!s108 1613356799.000000
+R27
+R28
+!i113 1
+R12
+R13
+w1613357841
+Eiteration
+Z30 w1613359579
+R1
+R2
+R3
+R4
+Z31 8C:/Users/Adam/Documents/468/Lab1/Iteration.vhd
+Z32 FC:/Users/Adam/Documents/468/Lab1/Iteration.vhd
+l0
+L5
+V:_:FYUkb8i;nmY;:fOaDD0
+!s100 S2C^]0Xl7`SkXKQeGCMg50
+R7
+32
+R8
+!i10b 1
+R9
+Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Adam/Documents/468/Lab1/Iteration.vhd|
+Z34 !s107 C:/Users/Adam/Documents/468/Lab1/Iteration.vhd|
+!i113 1
+R12
+R13
+Aiteration_arch
+R1
+R2
+R3
+DEx4 work 9 iteration 0 22 :_:FYUkb8i;nmY;:fOaDD0
+l23
+L14
+V9RUaX;PiE^JT=KneJLd7M0
+!s100 D]1jezJW]PD_V>l=mZ@AC2
+R7
+32
+R8
+!i10b 1
+R9
+R33
+R34
+!i113 1
+R12
+R13
+Elzc
+Z35 w1612491492
+Z36 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z37 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+R2
+R3
+R4
+Z38 8C:/Users/Adam/Documents/468/Lab1/lzc.vhd
+Z39 FC:/Users/Adam/Documents/468/Lab1/lzc.vhd
+l0
+L6
+V[lf^z^G09I[zP]j71<MVJ3
+!s100 oWGO[N99^9=ee0@zF9YN23
+R7
+32
+R8
+!i10b 1
+R9
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Adam/Documents/468/Lab1/lzc.vhd|
+Z41 !s107 C:/Users/Adam/Documents/468/Lab1/lzc.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R36
+R37
+R2
+R3
+DEx4 work 3 lzc 0 22 [lf^z^G09I[zP]j71<MVJ3
+l41
+L14
+V38k1:E?96ooL2dn056gCV0
+!s100 H_@g:N_hcM1UMQ2UMVVLz0
+R7
+32
+R8
+!i10b 1
+R9
+R40
+R41
+!i113 1
+R12
+R13
+Enewton
+Z42 w1613526643
+R1
+R2
+R3
+R4
+Z43 8C:/Users/Adam/Documents/468/Lab1/Newton.vhd
+Z44 FC:/Users/Adam/Documents/468/Lab1/Newton.vhd
+l0
+L5
+V3am3WV<O;@]0UQiXTYhQz3
+!s100 >3H@OU5=he:K5_O6Vj4Y22
+R7
+32
+Z45 !s110 1613526647
+!i10b 1
+Z46 !s108 1613526647.000000
+Z47 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Adam/Documents/468/Lab1/Newton.vhd|
+Z48 !s107 C:/Users/Adam/Documents/468/Lab1/Newton.vhd|
+!i113 1
+R12
+R13
+Anewton_arch
+R1
+R2
+R3
+DEx4 work 6 newton 0 22 3am3WV<O;@]0UQiXTYhQz3
+l30
+L16
+V0TlGAY_MZNnAk7[J<9_dY2
+!s100 ==mjQ`QzaI5c0g1:Z<D]g1
+R7
+32
+R45
+!i10b 1
+R46
+R47
+R48
+!i113 1
+R12
+R13
+Erom
+Z49 w1612834458
+Z50 DPx9 altera_mf 20 altera_mf_components 0 22 gV:l9C^?PSb6]b5V?_jR@3
+R2
+R3
+R4
+Z51 8C:/Users/Adam/Documents/468/Lab1/ROM.vhd
+Z52 FC:/Users/Adam/Documents/468/Lab1/ROM.vhd
+l0
+L42
+V@CaHmB0;e;0GP4PjbR[V_0
+!s100 GFZUJfFk@o^BF;nKeXe:I1
+R7
+32
+R8
+!i10b 1
+R9
+Z53 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Adam/Documents/468/Lab1/ROM.vhd|
+Z54 !s107 C:/Users/Adam/Documents/468/Lab1/ROM.vhd|
+!i113 1
+R12
+R13
+Asyn
+R50
+R2
+R3
+DEx4 work 3 rom 0 22 @CaHmB0;e;0GP4PjbR[V_0
+l56
+L52
+V:<mY6gg?FaVKODLbR:Z>10
+!s100 R=^jBKa=2=Mz4W53LhAMF1
+R7
+32
+R8
+!i10b 1
+R9
+R53
+R54
+!i113 1
+R12
+R13
+Ptxt_util
+R2
+R3
+Z55 w1611712138
+R4
+Z56 8C:/Users/Adam/Documents/468/Lab1/text_util.vhd
+Z57 FC:/Users/Adam/Documents/468/Lab1/text_util.vhd
+l0
+L6
+V0mm@kGeNcX?4`g7cGTlfX0
+!s100 c:BW5Xc[E8^[m08^2C2lQ1
+R7
+32
+b1
+Z58 !s110 1613526615
+!i10b 1
+Z59 !s108 1613526615.000000
+Z60 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Adam/Documents/468/Lab1/text_util.vhd|
+Z61 !s107 C:/Users/Adam/Documents/468/Lab1/text_util.vhd|
+!i113 1
+R12
+R13
+Bbody
+R15
+R2
+R3
+l0
+L91
+V`HH;T`3Ho[Hlb][VkY^;C2
+!s100 I`ADAF?H00AhH2Y9>MT2A0
+R7
+32
+R58
+!i10b 1
+R59
+R60
+R61
+!i113 1
+R12
+R13
